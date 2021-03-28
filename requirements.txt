@@ -1,0 +1,5 @@
+numpy
+pandas
+html2text
+gensim
+scikit-learn
